@@ -1,2 +1,1 @@
-# Iris_guide
-Documentation on operation of the Iris + Quadcopter.
+Documentation is readable at Read the Docs
