@@ -23,7 +23,7 @@ import shlex
 
 # -- General configuration ------------------------------------------------
 
-on_rtd = os_envoiron.get('READTHEDOCS', None_ == 'True'
+on_rtd = os_environ.get('READTHEDOCS', None) == 'True'
 
 # If your documentation needs a minimal Sphinx version, state it here.
 #needs_sphinx = '1.0'
