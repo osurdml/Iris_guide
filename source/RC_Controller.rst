@@ -7,7 +7,8 @@ Manual Controls
 The Iris + can always be manually controlled no matter what flight mode it is in. 
 
 In order to arm the Iris for flight: 
-1. All safety checks must be passed (See **Failsafes**) 
+
+1. All safety checks must be passed (:ref:`Failsafes`) 
 2. The safety button must be solid red
 3. The rear LED must be flashing green (black legs signify backside)
 4. Return to Launch (RTL) is off
