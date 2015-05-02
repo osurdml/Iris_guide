@@ -20,6 +20,6 @@ Once the Iris is ready to be armed and all personnel are a safe distance away yo
 Switching Modes
 ^^^^^^^^^^^^^^^
 
-* You are able to switch between flight modes mid-flight by flipping the switch with labels STD, LTR, AUTO (:ref:`Flight Modes`)
-* The RTL switch will cause the IRIS to return to its original launch position and land.
-* The CH7 (Channel 7) switch will cause the Iris to land in its current position.
+* You are able to change flight modes mid-flight by flipping the switch with labels STD, LTR, AUTO located directly above the right thumbstick (:ref:`Flight Modes`).
+* The RTL switch will cause the IRIS to return to its original launch position and land. This switch can be found to the left of the STD, LTR, and AUTO switch.
+* The CH7 (Channel 7) switch will cause the Iris to land in its current position. This switch can be found above the left thumb stick.
