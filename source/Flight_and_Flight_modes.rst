@@ -1,3 +1,5 @@
+.. _Flight Modes:
+
 Flight and Flight Modes
 =======================
 
